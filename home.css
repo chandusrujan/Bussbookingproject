@@ -1,0 +1,44 @@
+/* header */
+
+header{
+height:50px;
+background:white;
+color:green;
+padding-top:30px;
+min-height:70px;
+border-bottom:red solid;
+}
+header ul{
+padding:0;
+margin:0;
+}
+header a{
+text-decoration:none;
+font-size:16px;
+padding:0 20px 0 20px;
+}
+header li{
+display:inline;
+float:left;
+right:40px;
+
+}
+header #bar{
+float:left;
+}
+header h1{
+margin:0;
+padding-left:30px;
+}
+
+header cha{
+float:right;
+margin-top:10px;
+}
+header .current{
+color:red;
+font-weight:bold;
+}
+#chan{
+font-size:20px;
+}
